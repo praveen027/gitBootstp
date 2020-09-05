@@ -1,4 +1,4 @@
-# gitBootstp
+# Front-End-Web-UI-Frameworks-and-Tools
 # Syllabus
 
 Week 1<br>
